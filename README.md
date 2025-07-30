@@ -26,5 +26,5 @@
 
 ```sh
 git clone https://github.com/brdsmth/cadsmith.git
-cd cadsmith
+cd cadsmith/cadsmith
 cargo run
